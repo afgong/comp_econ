@@ -1,6 +1,6 @@
 # Computational Methods in Economics
 
-mccall_markov
+mccall_markov /
 monte-carlo-iv
 bresnahan-reiss
 wage_growth_during_the_recession
